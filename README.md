@@ -52,7 +52,7 @@
 <!-----![](https://github-readme-streak-stats.herokuapp.com/?user=Bhavya333-web&theme=dark&hide_border=false)<br/>---->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhavya333-web&show_icons=true&locale=en&layout=compact&theme=dark" alt="Bhavya333-web"  height="200" width="400" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Bhavya333-web&show_icons=true&locale=en&theme=dark" alt="Bhavya333-web" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Bhavya333-web&show_icons=true&locale=en&theme=dark" alt="Bhavya333-web"  height="200" width="400" /></p>
 <!--------<p><img align="" src="https://streak-stats.demolab.com/?user==Bhavya333-web&theme=dark" alt="=P09s" /></p>------>
 
 <!----------![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya333-web&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)----->
