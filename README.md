@@ -27,7 +27,7 @@
 
   💬 Ask me about Cloud Computing, Operating System and UI/UX.
 
-  📄 Get my resume on LinkedIn.
+  📄 Get my resume on [LinkedIn](https://www.linkedin.com/in/bhavya-mittal-86aab1287) .
   
 
 ### * Some Technical Stuff, I Work With <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
