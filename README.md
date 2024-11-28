@@ -30,19 +30,16 @@
 
  #### 👨‍💻 Programming Languages
   
-        Java | Python - Machine Learning
+        C | C++
 
- #### 🛠 Libraries & Frameworks
+ #### 🛠 Frameworks & Libraries 
   
-        Flutter | Numpy | Pandas | Tensorflow | OpenCV | Django
+        Django | Numpy | Pandas | Matplotlib 
 
- #### ✨ Reality tech
-  
-        Augmented Reality | Virtual Reality | Mixed Reality
 
  #### 🗜 Softwares worked with
    
-        VS code | Intellij | Jupiter Notebook | Google colab | Metaspark Studio | Unity | Sandbox | Eclipse
+        VS code | Virtual Box | Jupiter Notebook | Google colab | Metaspark Studio | Unity | Sandbox | Eclipse
 
  #### ☁ Cloud 
    
