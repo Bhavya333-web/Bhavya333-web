@@ -4,7 +4,7 @@
                                                         
                                               👋 Hi, I’m a Programmer by Day, Dreamer by Night
 - 👀 I’m interested in Exploring new Techs.
-- 🌱 I’m currently learning about Various Clouds Platforms(AWS,Google)
+- 🌱 I’m currently learning various cloud technologies and data structures and algorithms (DSA).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavya-mittal-86aab1287) , [Email Me](mailto:bhavyamittal575@gmail.com)
 
 - ☁️ Fun Fact: I'm fascinated by the endless possibilities of cloud computing! From virtualizing servers to deploying scalable apps, I’m all about exploring the skies of the cloud.
