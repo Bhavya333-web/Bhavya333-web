@@ -19,16 +19,10 @@
   <a href="https://www.geeksforgeeks.org/user/bhavyami0f73/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.2KCXnP7qEjCWEb6hc3eb_AHaFM?w=239&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="bhavyami0f73" height="30" width="40" /></a>
 </p>
 <!------<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="home screen gif" />---->
-# <b> What I'm Working On -  </b>
-<br>
+ 
 </br>
 
 
-  👨‍💻 I'm currently working on learning new stuffs.
-
-  💬 Ask me about Cloud Computing, Operating System and UI/UX.
-
-  📄 Get my resume on [LinkedIn](https://www.linkedin.com/in/bhavya-mittal-86aab1287) .
   
 
 ### * Some Technical Stuff, I Work With <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
