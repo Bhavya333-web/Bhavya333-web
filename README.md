@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bhavya Mittal
+                                                        - 👋 Hi, I’m Bhavya Mittal
 - 👀 I’m interested in Exploring new Techs.
 - 🌱 I’m currently learning about Various Clouds Platforms(AWS,Google)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavya-mittal-86aab1287)
@@ -30,7 +30,7 @@
 
  #### 👨‍💻 Programming Languages
   
-        C | C++
+        C | C++ | Python
 
  #### 🛠 Frameworks & Libraries 
   
@@ -46,17 +46,24 @@
         Amazon Web Services(AWS) | Google Cloud
 
 
-# 📊 GitHub Stats:
-<!-----![](https://github-readme-streak-stats.herokuapp.com/?user=Bhavya333-web&theme=dark&hide_border=false)<br/>---->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhavya333-web&show_icons=true&locale=en&layout=compact&theme=dark" alt="P09s" /></p>
+# 📊 GitHub Status:
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavya333-web&" alt="Bhavya333-web"  height="200" width="400" </p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhavya333-web&show_icons=true&locale=en&theme=dark" alt="P09s" /></p>
+<!-----![](https://github-readme-streak-stats.herokuapp.com/?user=Bhavya333-web&theme=dark&hide_border=false)<br/>---->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhavya333-web&show_icons=true&locale=en&layout=compact&theme=dark" alt="Bhavya333-web"  height="200" width="400" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Bhavya333-web&show_icons=true&locale=en&theme=dark" alt="Bhavya333-web" /></p>
 <!--------<p><img align="" src="https://streak-stats.demolab.com/?user==Bhavya333-web&theme=dark" alt="=P09s" /></p>------>
 
 <!----------![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya333-web&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)----->
 
 
 <!--------![](https://github-readme-stats.vercel.app/api?username=Bhavya333-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>------->
+<br> </br>
+<br> </br>
+<br> </br>
+
+
 
 ## 🏆 GitHub Trophies
 <!--![](https://github-profile-trophy.vercel.app/?username=Bhavya333-web&theme=chalk&no-frame=false&no-bg=true&margin-w=4)---->
